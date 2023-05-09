@@ -1,6 +1,6 @@
 # Computer Science Project
 
-# Re Define Me
+# Re-Define Me
 
 Our Project is Promoting Healthy Eating and Balanced Diet with Re-Define Me. Re Define Me is a digital health and wellness web application designed to help users to redefine their health. It features a range of tools and resources to help users in calorie intake, get personalized advice from professional nutritionists and fitness experts, and suggest proper diet flow to the user. Additionally, the app provides information on where to get gym exercises services and connects users with doctors and hospitals.
 
