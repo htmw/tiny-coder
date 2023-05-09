@@ -1,27 +1,10 @@
 # CS691 Computer Science Project
-Our Project is Promoting Healthy Eating and Balanced Diet with Re-Define Me.
-Professor: Henry Wong
-Computer Science Project CS692
-Our Teammates are
-Maanasa Dharini (Frontend Developer)
-Naresh Babu Chinta (QA/tester)
-Varun Reddy Duggimpudi (Backend Developer 2)
-Sathwik Mudenti (Backend Developer)
-Brunda Reddy (DBA)
-Project Description : We want to provide a digital health and wellness web application designed to help users shed the pounds and get active, Nutrition Tracker, Water Tracker, Workout and Weight Tracker.
-Features:
-Food Classification
-Recipe Generation
-Balanced Diet
-Calorie Estimation.
-
-# CS691 Computer Science Project
 
 # Re Define Me
 
 Our Project is Promoting Healthy Eating and Balanced Diet with Re-Define Me. Re Define Me is a digital health and wellness web application designed to help users to redefine their health. It features a range of tools and resources to help users in calorie intake, get personalized advice from professional nutritionists and fitness experts, and suggest proper diet flow to the user. Additionally, the app provides information on where to get gym exercises services and connects users with doctors and hospitals.
 
-### Professor: - Henry Wong
+### Professor:- Henry Wong
   
 ### Computer Science Project CS692
 
