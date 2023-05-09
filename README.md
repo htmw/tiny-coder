@@ -1,4 +1,4 @@
-# CS691 Computer Science Project
+# Computer Science Project
 
 # Re Define Me
 
